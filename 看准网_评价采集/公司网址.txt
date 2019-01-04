@@ -1,0 +1,16 @@
+https://www.kanzhun.com/
+
+
+https://www.kanzhun.com/plc52p9.html?ka=paging9
+https://www.kanzhun.com/plc52p10.html?ka=paging10
+
+
+
+¹æÂÉ£º
+for num in range(1,11):
+	url = "https://www.kanzhun.com/plc52p{}".format(num)+".html?ka=paging{}".format(num)
+
+
+
+
+https://www.kanzhun.com/plc52p9.html?ka=paging9
