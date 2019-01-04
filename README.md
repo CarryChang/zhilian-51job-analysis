@@ -8,5 +8,5 @@
 ### 相似度计算结果为
 ![相似度计算](https://github.com/CarryChang/zhilian-51job-analysis/blob/master/pic/相似度效果.png)
 ### 主题聚类为 
-![聚类3](https://github.com/CarryChang/zhilian-51job-analysis/blob/master/pic/LDA3.png)
+![聚类3](https://github.com/CarryChang/zhilian-51job-analysis/blob/master/pic/LDA-3.png)
 ![聚类4](https://github.com/CarryChang/zhilian-51job-analysis/blob/master/pic/LDA4.png)
