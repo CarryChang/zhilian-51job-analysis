@@ -13,3 +13,4 @@
 ### 基于词权的LDA主题聚类为 
 ![聚类3](https://github.com/CarryChang/zhilian-51job-analysis/blob/master/pic/tf-idf-lda3.png)
 ![聚类4](https://github.com/CarryChang/zhilian-51job-analysis/blob/master/pic/TF-IDF+LDA4.png)
+结论：基于词频的可视化LDA的方法得出来的主题关键字无法反应低频信息，造成词频关键信息缺失，而使用TF-IDF的方法进行向量化之后，既考虑频次又考虑权重，能反应低频关键信息，弥补了频次带来的的误差。
