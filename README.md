@@ -1,4 +1,5 @@
 ### 数据采集和统计（结构化和非结构化的分析）
+##### 数据采集时间截止到2018年12月28日，数据条数为15万条，平台为智联和51_job，算是给要找工作的自己一个方向
 ####  结构化分析：对采集的数据进行全国性的统计
 ![cl](https://github.com/CarryChang/zhilian-51job-analysis/blob/master/analysis_result/cl.png)
 ![cl](https://github.com/CarryChang/zhilian-51job-analysis/blob/master/analysis_result/dc.png)
